@@ -6,22 +6,24 @@
         <div class="grid">
             {% assign sorted-parts = site.data.parts %}
             {% for parts in sorted-parts %}
-            <div class="col-lg-4 col-md-6 parts-image-item {{ parts.filter-model }}">
-                <a class="parts-link thumb" href="#">
-                    <div class="parts-image-container">
-                        <img src="{{ parts.image}}" class="img-responsive center-block"/>
+                {%- unless parts.show == false -%}
+                    <div class="col-lg-4 col-md-6 parts-image-item {{ parts.filter-model }}">
+                        <a class="parts-link thumb" href="#">
+                            <div class="parts-image-container">
+                                <img src="{{ parts.image}}" class="img-responsive center-block"/>
+                            </div>
+                            <div class="parts-details">
+                                <span class="parts-name">Part Name: {{ parts.name }}</span>
+                                <span class="parts-model">Model: {{ parts.model }}</span>
+                                {%- if parts.sold == true -%}
+                                    <strong class="parts-price text-danger">SOLD</strong>
+                                {%- else -%}
+                                    <span class="parts-price">Price: ${{ parts.price }}</span>
+                                {%- endif -%}
+                            </div>
+                        </a>
                     </div>
-                    <div class="parts-details">
-                        <span class="parts-name">Part Name: {{ parts.name }}</span>
-                        <span class="parts-model">Model: {{ parts.model }}</span>
-                        {%- if parts.sold == true -%}
-                            <strong class="parts-price text-danger">SOLD</strong>
-                        {%- else -%}
-                            <span class="parts-price">Price: ${{ parts.price }}</span>
-                        {%- endif -%}
-                    </div>
-                </a>
-            </div>
+                {%- endunless -%}
             {% endfor %}
         </div>
 

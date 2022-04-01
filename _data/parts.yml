@@ -17,6 +17,7 @@
   image: https://res.cloudinary.com/wesedholm/image/upload/h_600,q_auto,f_auto/v1542431744/Parts/Lock_assembly_-_Giulietta_-_275._Free_USA_postage.jpg
   price: "275"
   sold: true
+  show: false
 - name: Speedometer
   model: 105 GT Series
   filter-model: 105-GT-Series
@@ -35,18 +36,21 @@
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431725/Parts/Side_Marker_-_Giulia_Sedan_65._Includes_USA_postage.jpg
   price: "65"
   sold: true
+  show: false
 - name: Rocker Switch Assembly
   model: ''
   filter-model: ''
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431672/Parts/Rocker_Switch_Acessembly_photo_2_-_Giulia_TI_150._Includes_USA_postage.jpg
   price: "100"
   sold: true
+  show: false
 - name: Mirrors 1 pair
   model: ''
   filter-model: ''
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431670/Parts/Mirrors_1_pair_Vintage_Racing_65._Includes_USA_postage.jpg
   price: "65"
   sold: true
+  show: false
 - name: License Frames 2
   model: ''
   filter-model: ''
@@ -59,12 +63,14 @@
   image: https://res.cloudinary.com/wesedholm/image/upload/w_500,q_auto,f_auto/v1542431703/Parts/Heater_Blower_Motor_-_Giulietta_125._Includes_USA_postage.jpg
   price: "125"
   sold: true
+  show: false
 - name: Giulietta fans
   model: Giulietta
   filter-model: Giulietta
   image: "/uploads/parts/giulietta-fans.jpg"
   price: 125 each
   sold: true
+  show: false
 - name: GT 1300 Junior Owners Manual
   model: ''
   filter-model: ''
@@ -89,6 +95,7 @@
   image: "/uploads/parts/sparco-revil-seat-new-with-tag.jpg"
   price: "500"
   sold: true
+  show: false
 - name: 56 Spider Block
   model: ''
   filter-model: ''
@@ -101,6 +108,7 @@
   image: "/uploads/parts/105-1600-cylinder-head.jpg"
   price: "800"
   sold: true
+  show: false
 - name: 750 Veloce bell crank
   model: ''
   filter-model: ''
@@ -113,3 +121,4 @@
   image: "/uploads/parts/late-105-1600-cylinder-head.jpg"
   price: "600"
   sold: true
+  show: false
