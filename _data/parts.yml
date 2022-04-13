@@ -106,7 +106,7 @@
   filter-model: ''
   image: "/uploads/parts/gt-1300-junior-owners-manual.jpg"
   price: "75"
-  sold: false
+  sold: true
 - name: Original SZ framed artwork
   model: ''
   filter-model: ''
