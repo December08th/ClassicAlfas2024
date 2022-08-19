@@ -47,6 +47,8 @@ sale_pending: false
 order: "0.5"
 
 ---
+# Giulia Spring GTA 848-001
+
 Originally sold new in Germany. Well known and complete ownership history as documented in Alleggerita registry pages 274-276.
 
 Outfitted for racing by Autodelta and run for approximately 1 season. In current ownership for 40 years, full owenership details available on request.
