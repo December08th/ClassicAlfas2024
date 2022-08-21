@@ -1,5 +1,5 @@
 ---
-title: Giulia Spring GTA 848-001
+title: Giulia Sprint GTA 848-001
 thumbnail: "/uploads/Giulia-Sprint-GTA-848-22.jpg"
 items:
 - thumbnail: "/uploads/Giulia-Sprint-GTA-848-01.jpg"
@@ -47,7 +47,7 @@ sale_pending: false
 order: "0.5"
 
 ---
-# Giulia Spring GTA 848-001
+# Giulia Sprint GTA 848-001
 
 Originally sold new in Germany. Well known and complete ownership history as documented in Alleggerita registry pages 274-276.
 
@@ -74,6 +74,6 @@ All guages and wipers fully functional as is the heater and lights.
 
 A successful participant in many road rally events over the years and ready for many more.
 
-A very rare opportunity to have such a wonderfull example of the desirable GTA. Long term sympathetic ownership by very knowledgeable Alfa enthusiast.
+A very rare opportunity to have such a wonderful example of the desirable GTA. Long term sympathetic ownership by very knowledgeable Alfa enthusiast.
 
 Price on request.
