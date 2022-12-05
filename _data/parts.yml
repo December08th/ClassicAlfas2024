@@ -4,19 +4,19 @@
   filter-model: ''
   image: "/uploads/IMG_1686.jpeg"
   price: "175"
-  sold: false
+  sold: true
 - name: Giulietta Motor Mounts (2)
   model: ''
   filter-model: ''
   image: "/uploads/IMG_1687.jpeg"
   price: "100"
-  sold: false
+  sold: true
 - name: Close ratio .85 fifth gear
   model: ''
   filter-model: ''
   image: "/uploads/IMG_1690.jpeg"
   price: "500"
-  sold: false
+  sold: true
 - name: Early 1600 Cylinder head - Regular Ports
   model: ''
   filter-model: ''
@@ -35,6 +35,7 @@
   image: "/uploads/American Racing 14X6 refinished 4 for $600.jpg"
   price: "600"
   sold: true
+  show: false
 - name: Rebuilt idler box
   model: ''
   filter-model: ''
@@ -107,6 +108,7 @@
   image: "/uploads/parts/gt-1300-junior-owners-manual.jpg"
   price: "75"
   sold: true
+  show: false
 - name: Original SZ framed artwork
   model: ''
   filter-model: ''
@@ -119,6 +121,7 @@
   image: "/uploads/parts/1966-grand-prix-of-italy-monza-program-75.jpg"
   price: "75"
   sold: true
+  show: false
 - name: Sparco Revil Seat - NEW with tag
   model: ''
   filter-model: ''
@@ -145,6 +148,7 @@
   image: "/uploads/parts/750-veloce-bell-crank.jpg"
   price: "100"
   sold: true
+  show: false
 - name: Late 105 - 1600 cylinder head
   model: ''
   filter-model: ''
@@ -152,3 +156,27 @@
   price: "600"
   sold: true
   show: false
+- name: "GTA driver's door button with keys"
+  model: ''
+  filter-model: ''
+  image: "/uploads/pulse-image-1670058575259.jpg"
+  price: "75"
+  sold: false
+- name: Stepnose GT front side marker lights with yellow bulbs - new
+  model: ''
+  filter-model: ''
+  image: "/uploads/pulse-image-1670058579962.jpg"
+  price: "250"
+  sold: false
+- name: Stepnose GT headlight rings - new reproduction
+  model: ''
+  filter-model: ''
+  image: "/uploads/pulse-image-1670058585720.jpg"
+  price: "125"
+  sold: false
+- name: New 101 oil pump with Veloce pickup
+  model: ''
+  filter-model: ''
+  image: "/uploads/pulse-image-1670058588945.jpg"
+  price: "500"
+  sold: false

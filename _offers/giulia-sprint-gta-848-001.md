@@ -43,9 +43,8 @@ items:
 - thumbnail: "/uploads/Giulia-Sprint-GTA-848-23.jpg"
   large_image: "/uploads/Giulia-Sprint-GTA-848-23.jpg"
 background_image: "/uploads/Giulia-Sprint-GTA-848-22.jpg"
-sale_pending: false
 order: "0.5"
-
+status: Sold
 ---
 # Giulia Sprint GTA 848-001
 
