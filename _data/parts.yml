@@ -1,22 +1,4 @@
 ---
-- name: Veglia Giulietta tachometer
-  model: ''
-  filter-model: ''
-  image: "/uploads/IMG_1686.jpeg"
-  price: "175"
-  sold: true
-- name: Giulietta Motor Mounts (2)
-  model: ''
-  filter-model: ''
-  image: "/uploads/IMG_1687.jpeg"
-  price: "100"
-  sold: true
-- name: Close ratio .85 fifth gear
-  model: ''
-  filter-model: ''
-  image: "/uploads/IMG_1690.jpeg"
-  price: "500"
-  sold: true
 - name: Early 1600 Cylinder head - Regular Ports
   model: ''
   filter-model: ''
@@ -156,7 +138,7 @@
   price: "600"
   sold: true
   show: false
-- name: "GTA driver's door button with keys"
+- name: GTA driver's door button with keys
   model: ''
   filter-model: ''
   image: "/uploads/pulse-image-1670058575259.jpg"
