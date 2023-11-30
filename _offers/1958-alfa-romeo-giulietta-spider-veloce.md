@@ -62,7 +62,7 @@ background_image: ''
 meta_description: 1958 Alfa Romeo Giulietta Spider Veloce
 
 ---
-Test Rare opportunity to acquire the finest available very desirable short wheelbase 750 series 1958 Alfa Romeo Giulietta Spider Veloce.
+Rare opportunity to acquire the finest available very desirable short wheelbase 750 series 1958 Alfa Romeo Giulietta Spider Veloce.
 
 Long term current ownership restoration completed in 2002. Only two previous owners with documented 68,000 original miles.
 
