@@ -42,9 +42,6 @@ items:
 - thumbnail: "https://res.cloudinary.com/wesedholm/image/upload/w_200,q_95,f_auto/v1701350977/ClassicsOnOffer/74AlfaRomeoGTVLowMiles/qkucrk7qkrp7imfxowmp.jpg"
   large_image: "https://res.cloudinary.com/wesedholm/image/upload/w_1044,q_95,f_auto/v1701350977/ClassicsOnOffer/74AlfaRomeoGTVLowMiles/qkucrk7qkrp7imfxowmp.jpg"
 
-- thumbnail: "https://res.cloudinary.com/wesedholm/image/upload/w_200,q_95,f_auto/v1701350977/ClassicsOnOffer/74AlfaRomeoGTVLowMiles/qkucrk7qkrp7imfxowmp.jpg"
-  large_image: "https://res.cloudinary.com/wesedholm/image/upload/w_1044,q_95,f_auto/v1701350977/ClassicsOnOffer/74AlfaRomeoGTVLowMiles/qkucrk7qkrp7imfxowmp.jpg"
-
 - thumbnail: "https://res.cloudinary.com/wesedholm/image/upload/w_200,q_95,f_auto/v1701350977/ClassicsOnOffer/74AlfaRomeoGTVLowMiles/jq8byltc6omiqffr3212.jpg"
   large_image: "https://res.cloudinary.com/wesedholm/image/upload/w_1044,q_95,f_auto/v1701350977/ClassicsOnOffer/74AlfaRomeoGTVLowMiles/jq8byltc6omiqffr3212.jpg"
 
@@ -62,8 +59,6 @@ items:
 ### 74 Alfa Romeo GTV Low Original Miles
 
 74 Alfa Romeo GTV Low original miles 2000cc engine upgraded with Weber carbs and Euro air cleaner. Close ratio transmission, new exhaust and aftermarket 15” wheels. Original refinished Turbina wheels included. Aftermarket Nardi steering wheel and upgraded front brakes car runs and drives wonderfully. One high quality respray in factory original Grigio Chiario metallic AR727 More pictures and info available
-
-ASKING PRICE: **Contact us for new price.**
 
 **Contact Fred Schueddekopp with questions/additional information**  
 Call/Text : 360-770-2279 PST (USA)  
