@@ -58,7 +58,7 @@ items:
 ---
 ### 74 Alfa Romeo GTV Low Original Miles
 
-74 Alfa Romeo GTV Low original miles 2000cc engine upgraded with Weber carbs and Euro air cleaner. Close ratio transmission, new exhaust and aftermarket 15” wheels. Original refinished Turbina wheels included. Aftermarket Nardi steering wheel and upgraded front brakes car runs and drives wonderfully. One high quality respray in factory original Grigio Chiario metallic AR727 More pictures and info available
+74 Alfa Romeo GTV Low original miles 2000cc engine upgraded with Weber carbs and Euro air cleaner. Close ratio transmission, new exhaust and aftermarket 15” wheels. Original refinished Turbina wheels included. Aftermarket Nardi steering wheel and upgraded front brakes car runs and drives wonderfully. One high quality respray in factory original Grigio Chiario metallic AR727 More pictures and info available upon request.
 
 **Contact Fred Schueddekopp with questions/additional information**  
 Call/Text : 360-770-2279 PST (USA)  
