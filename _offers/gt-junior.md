@@ -6,7 +6,7 @@ items:
 - large_image: "/uploads/gt-junior.jpg"
   thumbnail: ''
 background_image: ''
-order: "6"
+order: "60"
 status: Sold
 
 ---
