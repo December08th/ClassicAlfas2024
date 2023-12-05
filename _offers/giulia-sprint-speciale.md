@@ -33,7 +33,7 @@ items:
 background_image: "/uploads/IMG_4726.jpg"
 sale_pending: false
 order: "10"
-status: For Sale
+status: Sold
 
 ---
 ### 1965 ALFA ROMEO SPRINT SPECIALE
